@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @shubhamkumar8055
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently pursuing btech in computer science and engineering.
+- i am currently learning web development.
+- i have skills like html, css, c programming, c++,javascrpit.
 - 💞️ I’m looking to collaborate on tcs or amazon or google
 - 📫 How to reach me through my linkedin or instagram handle
 - 😄 Pronouns: SB shubham bhardwaj
